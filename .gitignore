@@ -1,0 +1,29 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Excel lock files and temp files
+~$*.xlsx
+~$*.xlsm
+*.tmp
+
+# Editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Python (in case scripts are added later)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node (in case web layer is added later)
+node_modules/
+dist/
+build/
