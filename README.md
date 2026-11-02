@@ -8,6 +8,7 @@ Two years of patient visit and cost data, cleaned and shaped into a live Excel d
 
 ## Quick links
 
+- 🌐 [Live web dashboard](https://bihbrandysango-cloud.github.io/projects/health/), which runs in any browser, with the six slicers, cost per patient and data quality pages
 - 🌐 [Open the earlier workbook on OneDrive, before the live dashboard](https://1drv.ms/x/c/5c96de2b5cf375c8/IQCf9Vnc81phSYgDGY5OHSUeAbY-MJBSO5USUpMOBcT4EZc?e=3SXhwC)
 - 📄 [Read the documentation (PDF)](docs/Health-Analysis-Documentation.pdf)
 - 📊 [Download the live Excel workbook](workbook/Health_Analysis.xlsx), with a `Live Dashboard` tab and an `Insights` tab
